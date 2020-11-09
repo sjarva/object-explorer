@@ -21,5 +21,13 @@ export default {
         'luoda merkkijonon oliosta',
         'muokata prototyyppejä',
     ],
+    docsLink: 'Koko dokumentaatio',
+    usage: 'Koodi',
+    output: 'Tuloste',
+    title: 'JavaScriptin Olioiden pikaopas',
+    subtitle:
+        'Löydä tarvitsemasi oliometodi ilman turhauttavaa dokumentaation selaamista',
+    chooseLanguage: 'Valitse kieli',
+    linkToArrayExplorer: 'Linkki Taulukoiden pikaoppaaseen',
     // other text can be added here
 }
